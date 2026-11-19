@@ -2,28 +2,28 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Posts on Kristupo Kersio saitas</title>
-    <link>https://Krysstis.github.io/posts/</link>
+    <link>https://krysstis.github.io/posts/</link>
     <description>Recent content in Posts on Kristupo Kersio saitas</description>
     <generator>Hugo</generator>
     <language>lt</language>
     <lastBuildDate>Thu, 19 Nov 2026 22:58:53 +0200</lastBuildDate>
-    <atom:link href="https://Krysstis.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://krysstis.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Antras</title>
-      <link>https://Krysstis.github.io/posts/antras/</link>
+      <link>https://krysstis.github.io/posts/antras/</link>
       <pubDate>Thu, 19 Nov 2026 22:58:53 +0200</pubDate>
-      <guid>https://Krysstis.github.io/posts/antras/</guid>
+      <guid>https://krysstis.github.io/posts/antras/</guid>
       <description>&lt;p&gt;Paveiksliukas irase ir kodo pavyzdys&lt;/p&gt;
-&lt;p&gt;![Paveiksliukas](/images/papuga.jpg)&lt;/p&gt;
+&lt;p&gt;&lt;img alt=&#34;Paveiksliukas&#34; loading=&#34;lazy&#34; src=&#34;https://krysstis.github.io/images/papuga.jpg&#34;&gt;&lt;/p&gt;
 &lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;-webkit-text-size-adjust:none;&#34;&gt;&lt;code class=&#34;language-python&#34; data-lang=&#34;python&#34;&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;
 &lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;print(&lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#34;Sveiki, zmones!&amp;#34;&lt;/span&gt;)
 &lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;</description>
     </item>
     <item>
       <title>Pirmas kontentas</title>
-      <link>https://Krysstis.github.io/posts/pirmas/</link>
+      <link>https://krysstis.github.io/posts/pirmas/</link>
       <pubDate>Thu, 19 Nov 2026 22:27:17 +0200</pubDate>
-      <guid>https://Krysstis.github.io/posts/pirmas/</guid>
+      <guid>https://krysstis.github.io/posts/pirmas/</guid>
       <description>&lt;p&gt;Sveiki! Ziurim ka turim, veikia ar neveikiai&lt;/p&gt;</description>
     </item>
   </channel>
