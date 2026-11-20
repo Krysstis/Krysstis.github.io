@@ -6,8 +6,16 @@
     <description>Recent content on Kristupo Kersio saitas</description>
     <generator>Hugo</generator>
     <language>lt</language>
-    <lastBuildDate>Thu, 19 Nov 2026 22:58:53 +0200</lastBuildDate>
+    <lastBuildDate>Fri, 20 Nov 2026 18:09:10 +0200</lastBuildDate>
     <atom:link href="https://krysstis.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Apie mane</title>
+      <link>https://krysstis.github.io/apie/</link>
+      <pubDate>Fri, 20 Nov 2026 18:09:10 +0200</pubDate>
+      <guid>https://krysstis.github.io/apie/</guid>
+      <description>&lt;p&gt;Esu Kristupas Kersis is PRIf23/1 grupes.
+Sis puslapis skirtas laboratoriniam darbui su GitHub ir Hugo puslapiais.&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Antras</title>
       <link>https://krysstis.github.io/posts/antras/</link>
